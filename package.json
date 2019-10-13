@@ -1,0 +1,23 @@
+{
+  "name": "mylodash",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "chunk.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chskela/myLodash.git"
+  },
+  "author": "Aleksey Chistyakov <chskela@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chskela/myLodash/issues"
+  },
+  "homepage": "https://github.com/chskela/myLodash#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
